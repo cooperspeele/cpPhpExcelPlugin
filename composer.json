@@ -1,0 +1,17 @@
+
+{
+    "name": "cooperspeele/cp-php-excel-plugin",
+    "type": "symfony1-plugin",
+    "description": "",
+    "keywords": ["symfony", "plugin"],
+    "license": "MIT",
+    "homepage": "https://github.com/cooperspeele/cpPhpExcelPlugin",
+    "require": {
+        "composer/installers": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
